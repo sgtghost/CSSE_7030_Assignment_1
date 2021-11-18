@@ -1,2 +1,2 @@
 # CSSE_7030_Assignment_1
- CSSE7030 Assignment_!
+Check the PDF file for more details on this assignment.
